@@ -1,4 +1,4 @@
-import { sayHello } from "./src/example";
+import { sayHello } from "./src/example.js";
 
 const myName = "Example";
 
